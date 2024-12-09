@@ -1,8 +1,8 @@
 # Re-Console: Legacy
 Re-Console: Legacy is an off-shoot of Re-Console designed around allowing you to re-experience older LCE versions inside Java Edition.
 
-[<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/modpack/legacy-minecraft)
-[<img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">](https://github.com/Legacy-Union/Re-Console/releases) [<img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">](https://fabricmc.net/) [<img alt="adrenaline" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/adrenaline_vector.svg">](https://modrinth.com/modpack/adrenaline) [<img alt="patreon-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/patreon-singular_vector.svg">](https://www.patreon.com/c/ViolaFlower)
+[<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/project/rc-legacy)
+[<img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">](https://github.com/ViolaFlower/Re-Console-Legacy/releases) [<img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">](https://fabricmc.net/) [<img alt="adrenaline" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/adrenaline_vector.svg">](https://modrinth.com/modpack/adrenaline) [<img alt="patreon-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/patreon-singular_vector.svg">](https://www.patreon.com/c/ViolaFlower)
 ![Banner](https://cdn.modrinth.com/data/cached_images/2b861171468a2d4cdb861a8956ee60fe0fb114fc.webp)
 
 ## 📥 Installation Guide
@@ -19,10 +19,10 @@ Although more complicated, you can install Prism Launcher from their website. Pr
 Please use the issue tracker linked at the top of the page if you are experiencing bugs, crashes, or other issues. Be sure to include necessary information like your hardware/software (such as the GPU and CPU, modpack version and OS) so that it's easier for us to find issues and resolve them.
 
 # ⭐ Features
-Generally, versions features heavily depend on which Title Update you plan on playing.
 
 ## 🔍 Accuracy
 Re-Console: Legacy comes with the goal of being accurate to the early versions of Legacy Console Edition.
+It even has limited world generation!
 
 ## ✅ Multiple Title Updates
 We currently have 5 Title Updates available:
@@ -34,7 +34,6 @@ We currently have 5 Title Updates available:
 
 ## 🚀 Performant
 Re-Console: Legacy, like its [mother pack](https://modrinth.com/modpack/legacy-minecraft), is built off of and and kept in sync with [Adrenaline](https://modrinth.com/modpack/adrenaline) by [devin](https://modrinth.com/user/devin). This means Re-Console: Legacy comes with all the features within [Adrenaline](https://modrinth.com/modpack/adrenaline), including;
-
 - Improved rendering & game logic performance 
 - Improved memory and hardware usage 
 - Improved world generation speed 
