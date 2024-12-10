@@ -19,6 +19,10 @@ Although more complicated, you can install Prism Launcher from their website. Pr
 ## 🐛 How to Report Issues
 Please use the issue tracker linked at the top of the page if you are experiencing bugs, crashes, or other issues. Be sure to include necessary information like your hardware/software (such as the GPU and CPU, modpack version and OS) so that it's easier for us to find issues and resolve them.
 
+### Want to keep up with development?
+Consider joining the [ViolaFlower Discord](https://discord.gg/kprFeAn7Gq) for sneak peeks and updates on development!
+
+
 # ⭐ Features
 
 ### 🔍 Accuracy
@@ -30,7 +34,7 @@ We currently have 3 Title Updates available, in our beta stage:
 - TU1
 - TU3
 - TU5
-With TU7 and TU9 planned for full release.
+With TU7 and TU9 planned for full release. We do not currently have a planned time for when that is.
 
 ### 🚀 Performant
 Re-Console: Legacy, like its [mother pack](https://modrinth.com/modpack/legacy-minecraft), is built off of and and kept in sync with [Adrenaline](https://modrinth.com/modpack/adrenaline) by [devin](https://modrinth.com/user/devin). This means Re-Console: Legacy comes with all the features within [Adrenaline](https://modrinth.com/modpack/adrenaline), including;
@@ -39,11 +43,10 @@ Re-Console: Legacy, like its [mother pack](https://modrinth.com/modpack/legacy-m
 - Improved world generation speed 
 
 ### ⚙️ Source Available
-All of the mods within Re-Console: Legacy are either open source or source available. This includes our Datapacks, which are available on GitHub.
+All of the mods within Re-Console: Legacy are either open source or source available. This includes our Datapacks, which are available on [GitHub](https://github.com/ViolaFlower/RC-L-datapacks).
 
 # ❓ Not your cup of tea?
-Consider trying the original [Re-Console](https://modrinth.com/modpack/legacy-minecraft)
- or [Console-idated](https://modrinth.com/modpack/console-idated).
+Consider trying the original [Re-Console](https://modrinth.com/modpack/legacy-minecraft) or [Console-idated](https://modrinth.com/modpack/console-idated).
 
 # 🍉 Sponsor
 Are you looking to enjoy Re-Console: Legacy with your friends? Feel free to use my code ``raamviot50`` for 25% off your first month of any server from BisectHosting, supporting me in the process.
