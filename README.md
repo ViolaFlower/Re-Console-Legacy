@@ -26,12 +26,11 @@ Re-Console: Legacy comes with the goal of being accurate to the early versions o
 It even has limited world generation!
 
 ### ✅ Multiple Title Updates
-We currently have 5 Title Updates available:
+We currently have 3 Title Updates available, in our beta stage:
 - TU1
 - TU3
 - TU5
-- TU7
-- TU9
+With TU7 and TU9 planned for full release.
 
 ### 🚀 Performant
 Re-Console: Legacy, like its [mother pack](https://modrinth.com/modpack/legacy-minecraft), is built off of and and kept in sync with [Adrenaline](https://modrinth.com/modpack/adrenaline) by [devin](https://modrinth.com/user/devin). This means Re-Console: Legacy comes with all the features within [Adrenaline](https://modrinth.com/modpack/adrenaline), including;
@@ -47,7 +46,7 @@ Consider trying the original [Re-Console](https://modrinth.com/modpack/legacy-mi
  or [Console-idated](https://modrinth.com/modpack/console-idated).
 
 # 🍉 Sponsor
-Are you looking to enjoy Legacy Tweaks with your friends? Feel free to use my code `` raamviot50`` for 25% off your first month of any server from BisectHosting, supporting me in the process.
+Are you looking to enjoy Re-Console: Legacy with your friends? Feel free to use my code ``raamviot50`` for 25% off your first month of any server from BisectHosting, supporting me in the process.
 
 [![BisectHosting Partnership](https://cdn.modrinth.com/data/cached_images/3d811a958c28645cf1007ccc3d90cb282921bf7f.webp)](https://bisecthosting.com/raamviot50)
 
