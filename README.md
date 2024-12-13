@@ -34,6 +34,7 @@ We currently have 3 Title Updates available, in our beta stage:
 - TU1
 - TU3
 - TU5
+
 With TU7 and TU9 planned for full release. We do not currently have a planned time for when that is.
 
 ### 🚀 Performant
@@ -64,5 +65,5 @@ Are you looking to enjoy Re-Console: Legacy with your friends? Feel free to use 
 - omo50
 - Panduino
 
-## Special Thanks
+## Attribution
 - Permdog99 for making Legacy Reborn, which this project forked from
