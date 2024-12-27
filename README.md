@@ -44,7 +44,7 @@ Re-Console: Legacy, like its [mother pack](https://modrinth.com/modpack/legacy-m
 - Improved world generation speed 
 
 ### ⚙️ Source Available
-All of the mods within Re-Console: Legacy are either open source or source available. This includes our Datapacks, which are available on [GitHub](https://github.com/ViolaFlower/RC-L-datapacks).
+All of the mods within Re-Console: Legacy are either open source or source available. This includes our datapacks, which are available on [GitHub](https://github.com/ViolaFlower/RC-L-datapacks), and our resource packs, which are also available on [GitHub](https://github.com/ViolaFlower/RC-L-Resources)
 
 # ❓ Not your cup of tea?
 Consider trying the original [Re-Console](https://modrinth.com/modpack/legacy-minecraft) or [Console-idated](https://modrinth.com/modpack/console-idated).
