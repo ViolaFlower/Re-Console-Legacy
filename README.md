@@ -67,3 +67,4 @@ Are you looking to enjoy Re-Console: Legacy with your friends? Feel free to use 
 
 ## Attribution
 - Permdog99 for making Legacy Reborn, which this project forked from
+    > [Legacy Reborn was originally under the GNU Lesser General Public License 2.1](https://web.archive.org/web/20241209054650/https://modrinth.com/modpack/legacy-reborn)
