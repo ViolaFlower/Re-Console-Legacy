@@ -64,7 +64,9 @@ Are you looking to enjoy Re-Console: Legacy with your friends? Feel free to use 
 ## Developers
 - omo50
 - Panduino
+- Permdog99
+- Agari
 
 ## Attribution
 - Permdog99 for making Legacy Reborn, which this project forked from
-    > Re-Console: Legacy is based on Legacy Reborn version 1.3.4, [the last version under the GNU Lesser General Public License version 2.1](https://web.archive.org/web/20241209054650/https://modrinth.com/modpack/legacy-reborn)
+    > Re-Console: Legacy is based on Legacy Reborn's final unreleased commit, [which is under CC BY-SA 4.0.](https://github.com/Permdog99/Legacy-Reborn)
