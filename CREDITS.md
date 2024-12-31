@@ -1,6 +1,6 @@
 # Re-Console: Legacy Credits
 
-Re-Console: Legacy is based on Legacy Reborn version 1.3.4, [the last version under the GNU Lesser General Public License version 2.1](https://web.archive.org/web/20241209054650/https://modrinth.com/modpack/legacy-reborn)
+Re-Console: Legacy is based on Legacy Reborn's final unreleased commit, [which is under CC BY-SA 4.0.](https://github.com/Permdog99/Legacy-Reborn)
 
 ## Owner
 - omo50/bowen
@@ -13,11 +13,12 @@ Re-Console: Legacy is based on Legacy Reborn version 1.3.4, [the last version un
 
 # Legacy Reborn credits
 
-## Owner
+## Original Creator
 - Permdog99
 
 ## Developers
 - Agari
+- Permdog99
 
 ## Playtesters
 - MistuIsSleepy
