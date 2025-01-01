@@ -1,0 +1,8 @@
+hudDistance:1.0
+hudOpacity:1.0
+terrainFogStart:2
+terrainFogEnd:0.875
+overrideTerrainFogStart:true
+autoSave:1
+autoSaveWhenPausing:true
+selectedControllerHandler:sdl

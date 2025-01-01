@@ -1,21 +1,21 @@
 #Expand all entity hitboxes by 10%, making hitting a target possible from a slightly greater range and with much increased accuracy.
 #Default Value: true
-inflate_hitboxes = false
+inflate_hitboxes = true
 #Is the sweeping edge enchantment required to perform a sweep attack.
 #Default Value: true
 require_sweeping_edge = true
 #Attacking will no longer stop the player from sprinting. Very useful when swimming, so you can fight underwater without being stopped on every hit.
 #Default Value: true
-sprint_attacks = false
+sprint_attacks = true
 #Sprinting and attacking no longer interfere with each other, making critical hits possible at all times.
 #Default Value: true
-critical_hits_while_sprinting = false
+critical_hits_while_sprinting = true
 #Completely remove the attack cooldown as if it never even existed in the first place.
 #Default Value: true
 remove_attack_cooldown = true
 #Makes knockback stronger towards targets not on the ground (does not apply when in water).
 #Default Value: true
-upwards_knockback = false
+upwards_knockback = true
 #Allow using the "Attack" button while the "Use Item" button is held for mining blocks. Does not make a lot of sense, but it used to be a feature in old pvp.
 #Default Value: false
 interact_while_using = true
@@ -24,7 +24,7 @@ interact_while_using = true
 notch_apple_effects = true
 #Health only regenerates every 4 seconds, while requiring 18 or more food points. Surplus saturation does not yield quick health regeneration.
 #Default Value: false
-legacy_food_mechanics = false
+legacy_food_mechanics = true
 #Player is knocked back by attacks which do not cause any damage, such as when hit by snowballs, eggs, and fishing rod hooks.
 #Default Value: true
 weak_attacks_knock_back_players = true
@@ -45,7 +45,7 @@ canceled_attack_sounds = ["minecraft:entity.player.attack.crit", "minecraft:enti
 	slower_breaking = true
 	#Fishing rod deals knockback upon hitting an entity.
 	#Default Value: true
-	cause_knockback = false
+	cause_knockback = true
 	#Entities reeled in using a fishing rod are slightly launched upwards.
 	#Default Value: true
-	launch_entities = false
+	launch_entities = true

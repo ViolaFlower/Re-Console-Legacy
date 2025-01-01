@@ -41,8 +41,8 @@
       "disabled": false
     },
     "playMusicWhenPaused": true,
-    "musicForMenu": "ALPHA",
-    "musicForCreative": "ALPHA",
+    "musicForMenu": "BLEND",
+    "musicForCreative": "BLEND",
     "replaceOverworldBiomeMusic": true,
     "replaceNetherBiomeMusic": true,
     "replaceGameplayMusic": true,
@@ -100,7 +100,7 @@
       "disabled": false
     },
     "disableAllOffset": true,
-    "oldMissingTexture": "MODERN",
+    "oldMissingTexture": "BETA",
     "applyFullBlockCollisions": true,
     "fullBlockCollisions": {
       "items": [],
@@ -197,7 +197,7 @@
     "oldOverlayCorner": "TOP_LEFT",
     "oldOverlayOffsetX": 0,
     "oldOverlayOffsetY": 0,
-    "oldOverlayText": "Minecraft %v",
+    "oldOverlayText": "",
     "enableWindowTitle": true,
     "matchVersionOverlay": false,
     "windowTitleText": "Re-Console: Legacy TU3",
@@ -371,12 +371,12 @@
     "smoothWaterColor": true,
     "renderSunriseSunsetColor": true,
     "oldSunriseAtNorth": true,
-    "oldStars": "BETA",
+    "oldStars": "MODERN",
     "oldDynamicSkyColor": true,
     "universalSkyColor": "DISABLED",
     "oldNetherSky": true,
     "oldCloudHeight": 108,
-    "sunsetSunriseType": "JAVA",
+    "sunsetSunriseType": "TU1",
     "customOverworldSky": false,
     "customOverworldSkyColor": "#FFFFFF",
     "oldBlueVoid": "BETA",
@@ -396,11 +396,11 @@
     "voidParticleDensity": 20
   },
   "gameplay": {
-    "oldLadderGap": false,
+    "oldLadderGap": true,
     "oldSquidMilking": false,
     "disableAnimalPanic": true,
     "disableMonsterAvoidSun": true,
-    "disableGolemCreation": false,
+    "disableGolemCreation": true,
     "disableMonsterItemPickup": true,
     "disableBabyZombieSpawn": true,
     "disableBabyPiglinSpawn": true,
@@ -454,16 +454,16 @@
     "leftClickDoor": true,
     "leftClickLever": true,
     "leftClickButton": true,
-    "disableSneakingUnderSlabs": false,
-    "disableCrawling": false,
+    "disableSneakingUnderSlabs": true,
+    "disableCrawling": true,
     "instantBonemeal": true,
     "tilledGrassSeeds": false,
-    "disableBonemealShortGrass": false,
-    "disableTallGrassBonemeal": false,
-    "disableCocoaBeanPlacement": false,
+    "disableBonemealShortGrass": true,
+    "disableTallGrassBonemeal": true,
+    "disableCocoaBeanPlacement": true,
     "oldFire": false,
     "infiniteBurn": false,
-    "disableSoulFire": false,
+    "disableSoulFire": true,
     "instantAir": true,
     "disableSwim": true,
     "cartBoosting": false,
@@ -541,12 +541,15 @@
       "disabled": false
     },
     "customItemStacking": {
-      "items": {},
+      "items": {
+        "minecraft:oak_door": 1,
+        "minecraft:oak_trapdoor": 1
+      },
       "disabled": false
     },
-    "disableAxeStripping": false,
-    "disableShovelPathing": false,
-    "disableWaterBonemeal": false
+    "disableAxeStripping": true,
+    "disableShovelPathing": true,
+    "disableWaterBonemeal": true
   },
   "animation": {
     "preventArmSway": true,
@@ -570,7 +573,7 @@
     "oldVerticalBobbing": false,
     "oldCreativeCrouch": false,
     "oldRandomDamage": true,
-    "oldSneaking": false,
+    "oldSneaking": true,
     "preventDeathTopple": true
   },
   "swing": {

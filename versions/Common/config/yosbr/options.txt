@@ -1,0 +1,15 @@
+enableVsync:true
+realmsNotifications:false
+fullscreen:true
+bobView:true
+toggleCrouch:true
+gamma:0.0
+renderDistance:10
+simulationDistance:5
+entityDistanceScaling:1.0
+maxFps:260
+biomeBlendRadius:1
+chatLineSpacing:1.0
+key_key.swapOffhand:key.keyboard.unknown
+joinedFirstServer:true
+tutorialStep:none

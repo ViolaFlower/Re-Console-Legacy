@@ -1,4 +1,4 @@
-name = "Re-Console: Legacy TU5"
+name = "Re-Console: Legacy Common"
 author = "ViolaFlower Modding"
 version = "0.0.22"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7697512324eee760efb867a512bc8322d8309b4cc6187d716b53a9d53f0dfd70"
+hash = "f17ff17c80edae2c1a6a689cd7ea1c656b5b0d57f092b6f1dbe36b8140cc466e"
 
 [versions]
 fabric = "0.16.9"
