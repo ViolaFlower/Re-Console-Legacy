@@ -643,7 +643,6 @@
     "minecraft:pink_stained_glass_pane",
     "minecraft:pink_terracotta",
     "minecraft:pink_tulip",
-    "minecraft:piston",
     "minecraft:player_head",
     "minecraft:podzol",
     "minecraft:pointed_dripstone",
@@ -766,7 +765,6 @@
     "minecraft:spruce_stairs",
     "minecraft:spruce_trapdoor",
     "minecraft:spruce_wood",
-    "minecraft:sticky_piston",
     "minecraft:stone_brick_wall",
     "minecraft:stone_slab",
     "minecraft:stone_stairs",
@@ -988,10 +986,8 @@
     "minecraft:brown_dye",
     "minecraft:white_dye",
     "minecraft:blue_dye",
-    "minecraft:ender_pearl",
     "minecraft:writable_book",
     "minecraft:name_tag",
-    "minecraft:shears",
     "minecraft:oak_fence_gate",
     "minecraft:end_portal_frame",
     "minecraft:dragon_egg",
@@ -1053,7 +1049,7 @@
   // Items here will not be able to be right-clicked (Interact)
   //    Example: minecraft:apple
   "only_disable_interactions": [
-    "examplemod:example_item"
+    "minecraft:ender_pearl"
   ],
   // -----------------------------------------------------------
   // Items here will not be able to be used to attack

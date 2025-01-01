@@ -1,6 +1,6 @@
 name = "e4mc"
 filename = "e4mc_minecraft-fabric-5.2.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/ul9OslWB/e4mc_minecraft-fabric-5.2.1.jar"

@@ -1,7 +1,6 @@
 {
   "default": "minecraft",
   "order": [
-    "minecraft",
-    "minecraft_classic"
+    "minecraft"
   ]
 }

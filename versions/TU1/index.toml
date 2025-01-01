@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CREDITS.md"
-hash = "aad97ba68e20a98dc485a411c330426a89438085a6a61e5df82d636d5d92d671"
-
-[[files]]
-file = "LICENSE.md"
-hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
 
@@ -62,7 +54,7 @@ hash = "81b6afd82e5ab2ca45b5fc0f025ef5638b3d2df534dbc05bb7e399042706c961"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
-hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
 
 [[files]]
 file = "config/goldenagecombat-client.toml"
@@ -117,6 +109,16 @@ file = "config/openloader/options.json"
 hash = "2edc0a631f0369e7e30a949421855c70d14df6adddd6d4b5c7107e44e5fda955"
 
 [[files]]
+file = "config/openloader/packs/data.pw.toml"
+hash = "711f4a14a6160019cefc603cb1bbecb008cd169699ed75af031495d344f0199a"
+metafile = true
+
+[[files]]
+file = "config/openloader/packs/resources.pw.toml"
+hash = "ce23ccd6811bc055ecfa2515c1e5cb9aeb3be0b0d4a57fd5f347cbbe11c84532"
+metafile = true
+
+[[files]]
 file = "config/preferred-gamerules.properties"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -138,7 +140,7 @@ hash = "25baba4e198fbefd6656a38dcf0cdc3e7ccef211221b4f5218d22a778d1853fa"
 
 [[files]]
 file = "config/yosbr/legacy_options.txt"
-hash = "723e0f7339feee0e2d950139878c666e4d6b294ecf760412ad5fb7fda14a912b"
+hash = "253dffce42a61cf46c34b4a326b1cf633572a121d198951efec8112d944acd3f"
 
 [[files]]
 file = "config/yosbr/options.txt"

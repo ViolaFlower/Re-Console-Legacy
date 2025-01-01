@@ -197,10 +197,10 @@
     "oldOverlayCorner": "TOP_LEFT",
     "oldOverlayOffsetX": 0,
     "oldOverlayOffsetY": 0,
-    "oldOverlayText": "",
+    "oldOverlayText": "Minecraft %v",
     "enableWindowTitle": true,
     "matchVersionOverlay": false,
-    "windowTitleText": "Re-Console: Legacy TU1",
+    "windowTitleText": "Re-Console: Legacy TU3",
     "oldDebug": "BETA",
     "debugEntityId": false,
     "fpsChart": "CLASSIC",
@@ -311,16 +311,16 @@
     "supporterTags": true,
     "disableLightFlicker": true,
     "invertedBlockLighting": false,
-    "oldLeavesLighting": true,
+    "oldLeavesLighting": false,
     "oldWaterLighting": true,
     "chestLightBlock": true,
     "roundRobinRelight": false,
-    "oldSmoothLighting": true,
+    "oldSmoothLighting": false,
     "oldNetherLighting": true,
     "oldClassicEngine": false,
     "smoothLightTransition": true,
     "disableBrightness": true,
-    "oldLightColor": true,
+    "oldLightColor": false,
     "maxBlockLight": 15,
     "disabledParticles": {
       "list": [],
@@ -396,7 +396,7 @@
     "voidParticleDensity": 20
   },
   "gameplay": {
-    "oldLadderGap": true,
+    "oldLadderGap": false,
     "oldSquidMilking": false,
     "disableAnimalPanic": true,
     "disableMonsterAvoidSun": true,
@@ -416,7 +416,7 @@
     "disableAnimalTempting": true,
     "disableSheepEatGrass": true,
     "randomSheepWoolRegen": true,
-    "oldSheepPunching": true,
+    "oldSheepPunching": false,
     "oneWoolPunch": false,
     "oldZombiePigmenDrops": true,
     "oldSkeletonDrops": true,
@@ -472,7 +472,7 @@
     "disableBoatBusyHands": true,
     "oldBoatWaterLift": true,
     "oldBoatDrops": true,
-    "punchTntIgnition": true,
+    "punchTntIgnition": false,
     "disableBedBounce": true,
     "alwaysOpenChest": true,
     "disableHunger": true,
@@ -541,10 +541,7 @@
       "disabled": false
     },
     "customItemStacking": {
-      "items": {
-        "minecraft:oak_door": 1,
-        "minecraft:oak_trapdoor": 1
-      },
+      "items": {},
       "disabled": false
     },
     "disableAxeStripping": false,

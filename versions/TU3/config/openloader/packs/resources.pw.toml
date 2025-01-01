@@ -1,0 +1,8 @@
+name = "Re-Console-Legacy-Resources-TU3"
+filename = "Re-Console-Legacy-Resources-TU3-dev-37155b0.zip"
+side = "both"
+
+[download]
+url = "https://github.com/ViolaFlower/RC-L-Resources/releases/download/0.0.1-dev/Re-Console-Legacy-Resources-TU3-dev-37155b0.zip"
+hash-format = "sha256"
+hash = "ca86bc2dff077e54e4fb73e73a34324e31cbb035b2d1468e560c00fa8e7fbf7f"

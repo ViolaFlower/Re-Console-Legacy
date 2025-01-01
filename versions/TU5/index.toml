@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CREDITS.md"
-hash = "aad97ba68e20a98dc485a411c330426a89438085a6a61e5df82d636d5d92d671"
-
-[[files]]
-file = "LICENSE.md"
-hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
 
@@ -62,7 +54,7 @@ hash = "81b6afd82e5ab2ca45b5fc0f025ef5638b3d2df534dbc05bb7e399042706c961"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
-hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
 
 [[files]]
 file = "config/goldenagecombat-client.toml"
@@ -117,6 +109,16 @@ file = "config/openloader/options.json"
 hash = "2edc0a631f0369e7e30a949421855c70d14df6adddd6d4b5c7107e44e5fda955"
 
 [[files]]
+file = "config/openloader/packs/data.pw.toml"
+hash = "3af42ad8c2fedee653abb24d31e51bcfafa523e2f065a68687aa4b14bc274986"
+metafile = true
+
+[[files]]
+file = "config/openloader/packs/resources.pw.toml"
+hash = "63a3a7657c7ee13abc41a921c980230568b0044fb7ac134d41eab8e177c0b040"
+metafile = true
+
+[[files]]
 file = "config/preferred-gamerules.properties"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -138,7 +140,7 @@ hash = "25baba4e198fbefd6656a38dcf0cdc3e7ccef211221b4f5218d22a778d1853fa"
 
 [[files]]
 file = "config/yosbr/legacy_options.txt"
-hash = "723e0f7339feee0e2d950139878c666e4d6b294ecf760412ad5fb7fda14a912b"
+hash = "253dffce42a61cf46c34b4a326b1cf633572a121d198951efec8112d944acd3f"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -191,12 +193,12 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "7d85f3445826c2b1e3bea5a438430e2fd4ab4d5a5915615abf32dab2278b18d0"
+hash = "906d070a2b9fdcac1ed6fde9501586c0d8de09813d11920d11332b13bbdc550b"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "15eaa7927e118a352c4ef7dad762dbd0de91ab3f2b3c9277a9587f8443b6385b"
+hash = "d88e8b3d5f8c8038a6b2046ca7f746a2e55d941eb083082eec23b2624942f255"
 metafile = true
 
 [[files]]
@@ -321,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "40ff528c1c0cb17ed25b91771185dd84afb3ddc0544878000e395613525cb23a"
+hash = "d94f139dbe525a41636305d6830e0805a5455cd96db3095b61b55c29a2915c95"
 metafile = true
 
 [[files]]
@@ -331,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
+hash = "0b35eacc51808809894ef78b91dfd614e056a34708e4bd2aa6f5ebeb7993a1c0"
 metafile = true
 
 [[files]]
@@ -350,13 +352,18 @@ hash = "9350408603fd70692f7c30102197f6471713baa18e604569717c6cf7359d0bdf"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
 metafile = true
 
 [[files]]
 file = "mods/preferred-gamerules.pw.toml"
-hash = "985ecc4a35a2feab6d51b6cd6b95e7efa3f6b49aa5f549c132f59217b7a2a5a5"
+hash = "1348184baa1f4fc4f0115889dc4c5d49d50ca53307bb55fd98fcc12008731b21"
 metafile = true
 
 [[files]]
@@ -400,6 +407,11 @@ hash = "d05681b90cd9cf8b424ca4cd295eecbdbfcadf9fd2fc1af612228127fce7a2b6"
 metafile = true
 
 [[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "f8f8ed97e3c6714188c95598605bd7c894c561ca084cf510365febaf7593de09"
+metafile = true
+
+[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
 metafile = true
@@ -422,11 +434,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
-metafile = true
-
-[[files]]
-file = "mods/you-shall-not-spawn.pw.toml"
-hash = "0872e0697edfd6cada47815488d210c623ef6ba6aba17cfd271b4faa4af54439"
 metafile = true
 
 [[files]]
