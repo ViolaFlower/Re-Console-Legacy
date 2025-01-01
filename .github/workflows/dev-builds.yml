@@ -33,13 +33,13 @@ jobs:
 
     - name: Prepare builds
       run: |
-          cp ./LICENSE ./versions/TU1/
+          cp ./LICENSE.md ./versions/TU1/
           cp ./README.md ./versions/TU1/
 
-          cp ./LICENSE ./versions/TU3/
+          cp ./LICENSE.md ./versions/TU3/
           cp ./README.md ./versions/TU3/
 
-          cp ./LICENSE ./versions/TU5/
+          cp ./LICENSE.md ./versions/TU5/
           cp ./README.md ./versions/TU5/
 
     - name: Create TU1 build
