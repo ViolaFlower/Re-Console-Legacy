@@ -1,0 +1,13 @@
+name = "Sodium Core Shader Support"
+filename = "sodiumcoreshadersupport-mc1.21.1-1.2.8-sodium0.6.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/G8yJPRdl/versions/Awc5E8ah/sodiumcoreshadersupport-mc1.21.1-1.2.8-sodium0.6.5.jar"
+hash-format = "sha512"
+hash = "bbf3ab938ae6cb6f5c8b5f6922e03222a49b3f016b37c7c581655a4f0e9e843e57a9d6a1fb707862efa1f0f9f05fde156d32c9f0ebaf228690695c2ab5b6401a"
+
+[update]
+[update.modrinth]
+mod-id = "G8yJPRdl"
+version = "Awc5E8ah"

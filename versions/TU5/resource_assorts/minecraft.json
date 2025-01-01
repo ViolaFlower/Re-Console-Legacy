@@ -1,0 +1,19 @@
+{
+  "background": "legacy:icon/background",
+  "packs": [
+    "vanilla",
+    "fabric",
+    "programmer_art",
+    "file/golden-days-base-1.21.x-1.11.0.zip",
+    "file/TU1 Assets"
+  ],
+  "displayPack": "vanilla",
+  "id": "minecraft",
+  "version": 1,
+  "name": {
+    "translate": "legacy.menu.assorts.minecraft"
+  },
+  "description": {
+    "translate": "legacy.menu.assorts.minecraft.description"
+  }
+}

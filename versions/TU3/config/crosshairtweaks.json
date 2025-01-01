@@ -1,0 +1,14 @@
+{
+	"disableCrosshair": false,
+	"hideCrosshairInContainers": true,
+	"showCrosshairInPerspective": false,
+	"showCrosshairInSpectator": false,
+	"removeCrosshairBlending": false,
+	"removeAttackIndicatorBlending": false,
+	"crosshairOpacity": 100.0,
+	"attackIndicatorOpacity": 100.0,
+	"useNormalCrosshair": false,
+	"useDebugCrosshair": false,
+	"fixDebugCooldown": true,
+	"debugCrosshairSize": 10
+}

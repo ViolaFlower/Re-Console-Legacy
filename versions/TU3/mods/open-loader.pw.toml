@@ -1,0 +1,13 @@
+name = "Open Loader"
+filename = "OpenLoader-fabric-1.21.1-21.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KwWsINvD/versions/hdvwk4FV/OpenLoader-fabric-1.21.1-21.1.1.jar"
+hash-format = "sha512"
+hash = "3d030441a7f128d18b623fba839beaa4eba24543103fa586da7a14402302059ea43edd22b3a80a69043dd1c4b1adf945082fbad9be29d88576eeb330c4183dbe"
+
+[update]
+[update.modrinth]
+mod-id = "KwWsINvD"
+version = "hdvwk4FV"
