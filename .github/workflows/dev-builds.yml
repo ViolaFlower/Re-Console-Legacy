@@ -36,19 +36,19 @@ jobs:
           mkdir TU1-temp
           cp -r ./versions/Common/* ./TU1-temp/
           cp -r ./versions/TU1/* ./TU1-temp/
-          cp ./LICENSE ./TU1-temp/
+          cp ./LICENSE.md ./TU1-temp/
           cp ./README.md ./TU1-temp/
 
           mkdir TU3-temp
           cp -r ./versions/Common/* ./TU3-temp/
           cp -r ./versions/TU3/* ./TU3-temp/
-          cp ./LICENSE ./TU3-temp/
+          cp ./LICENSE.md ./TU3-temp/
           cp ./README.md ./TU3-temp/
 
           mkdir TU5-temp
           cp -r ./versions/Common/* ./TU5-temp/
           cp -r ./versions/TU5/* ./TU5-temp/
-          cp ./LICENSE ./TU5-temp/
+          cp ./LICENSE.md ./TU5-temp/
           cp ./README.md ./TU5-temp/
 
     - name: Create TU1 build
