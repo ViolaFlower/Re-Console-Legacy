@@ -1,8 +1,8 @@
 name = "Re-Console-Legacy-Data-TU5"
-filename = "Re-Console-Legacy-Data-TU5-dev-0450ec0.zip"
+filename = "Re-Console-Legacy-Data-TU5-0.0.30-latest.zip"
 side = "both"
 
 [download]
-url = "https://github.com/ViolaFlower/RC-L-datapacks/releases/download/0.0.1-dev/Re-Console-Legacy-Data-TU5-dev-0450ec0.zip"
+url = "https://github.com/ViolaFlower/RC-L-datapacks/releases/download/a56025a/Re-Console-Legacy-Data-TU5-0.0.30-latest.zip"
 hash-format = "sha256"
-hash = "93cbbb05f9e4ce3af04a270093278772e6c6aec695c2bd2869b3ca32494d2184"
+hash = "1b6045fd5ff3be3b892b2ba6ed4b9f443421f9163960f775a34e57711517c11a"

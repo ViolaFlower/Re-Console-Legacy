@@ -1,8 +1,8 @@
 name = "Re-Console-Legacy-Resources-TU3"
-filename = "Re-Console-Legacy-Resources-TU3-dev-37155b0.zip"
+filename = "Re-Console-Legacy-Resources-TU3-0.0.30-latest.zip"
 side = "both"
 
 [download]
-url = "https://github.com/ViolaFlower/RC-L-Resources/releases/download/0.0.1-dev/Re-Console-Legacy-Resources-TU3-dev-37155b0.zip"
+url = "https://github.com/ViolaFlower/RC-L-Resources/releases/download/1c7ee5e/Re-Console-Legacy-Resources-TU3-0.0.30-latest.zip"
 hash-format = "sha256"
-hash = "ca86bc2dff077e54e4fb73e73a34324e31cbb035b2d1468e560c00fa8e7fbf7f"
+hash = "7679ced84720b8536234019af9a4ce1804d5127f212f797ac1c97e89cec09606"
