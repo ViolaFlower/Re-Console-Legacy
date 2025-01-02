@@ -4,9 +4,9 @@
     "vanilla",
     "fabric",
     "programmer_art",
-    "file/Re-Console-Legacy-Resources-TU3-0.0.30-latest.zip"
+    "resources/Re-Console-Legacy-Resources-TU3-0.0.30-latest.zip"
   ],
-  "displayPack": "vanilla",
+  "icon": "legacy:icon/minecraft",
   "id": "minecraft",
   "version": 1,
   "name": {
