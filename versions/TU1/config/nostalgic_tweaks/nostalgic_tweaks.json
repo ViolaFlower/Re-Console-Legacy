@@ -41,8 +41,8 @@
       "disabled": false
     },
     "playMusicWhenPaused": true,
-    "musicForMenu": "BLEND",
-    "musicForCreative": "BLEND",
+    "musicForMenu": "ALPHA",
+    "musicForCreative": "ALPHA",
     "replaceOverworldBiomeMusic": true,
     "replaceNetherBiomeMusic": true,
     "replaceGameplayMusic": true,
